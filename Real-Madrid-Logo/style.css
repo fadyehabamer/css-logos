@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(236, 236, 236);
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.outer-outer {
+    width: 320px;
+    height: 320px;
+    border: 7px solid #2B66A8;
+    border-radius: 50%;
+}
+
+.outer {
+    width: 307px;
+    height: 307px;
+    background: transparent;
+    border: 15px solid #FCBF00;
+    border-radius: 50%;
+    z-index: 100;
+    position: relative;
+    overflow: hidden;
+}
+.skewed{
+    position: absolute;
+    width: 70px;
+    height: 330px;
+    transform: rotate(-45deg);
+    background-color: #2B66A8;
+    z-index: 0;
+    left: 80;
+
+}
+.first-inner {
+    margin: 8px;
+    width: 260px;
+    height: 260px;
+    border: 15px solid black;
+    border-color: transparent #FCBF00;
+    border-radius: 50%;
+    position: relative;
+        overflow: hidden;
+
+}
+
+.left-v {
+    position: absolute;
+    width: 10px;
+    height: 140px;
+    background-color: #FCBF00;
+    /* border:3px solid #2B66A8; */
+    transform: rotate(-45deg);
+    top: 6px;
+    bottom: 0;
+    left: 64px;
+}
+
+.right-v {
+    position: absolute;
+    width: 10px;
+    height: 140px;
+    background-color: #FCBF00;
+    /* border:3px solid #2B66A8; */
+    transform: rotate(45deg);
+    top: 6px;
+    right: 65px;
+}
+.inner-circle{
+    margin: 60px 0px 0 40px;
+     width: 160px;
+    height: 160px;
+    border: 18px solid black;
+    border-color: #FCBF00 transparent #FCBF00 #FCBF00;
+    border-radius: 50%;
+    position: relative;
+}
+.v-inner{
+    width:15px;
+    height: 70px;
+    background-color: #FCBF00;
+    position: absolute;
+    bottom:-30;
+    left: 40;
+}
+.h-inner-o{
+    width:50px;
+    height: 15px;
+    background-color: #FCBF00;
+    position: absolute;
+    top:75;
+    left: 40;
+} 
+.h-inner-t{
+    width:50px;
+    height: 15px;
+    background-color: FCBF00;
+    position: absolute;
+    top:100;
+    left: 40;
+}
