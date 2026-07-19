@@ -13,7 +13,7 @@
 | [`Google-Logo`](./Google-Logo/) | Google Logo 🔴🟡🟢🔵 using CSS3 | [🔗 Live](https://fadyehabamer.github.io/css-logos/Google-Logo/) |
 | [`Instagram-Logo`](./Instagram-Logo/) | Instagram Logo using Pure CSS | [🔗 Live](https://fadyehabamer.github.io/css-logos/Instagram-Logo/) |
 | [`Real-Madrid-Logo`](./Real-Madrid-Logo/) | pure css Realmadrid Logo | [🔗 Live](https://fadyehabamer.github.io/css-logos/Real-Madrid-Logo/) |
-| [`Sticky-SideLogos`](./Sticky-SideLogos/) | Side Sticky Social Icons | [🔗 Live](https://fadyehabamer.github.io/css-logos/Sticky-SideLogos/Sticky SocialLogos/) |
+| [`Sticky-SideLogos`](./Sticky-SideLogos/) | Side Sticky Social Icons | [🔗 Live](https://fadyehabamer.github.io/css-logos/Sticky-SideLogos/) |
 | [`Twitter-Logo`](./Twitter-Logo/) | Twitter Logo using pure CSS | [🔗 Live](https://fadyehabamer.github.io/css-logos/Twitter-Logo/) |
 
 ---
