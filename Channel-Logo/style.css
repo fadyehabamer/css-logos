@@ -32,3 +32,9 @@ p {
     text-align: center;
     margin: 0;
 }
+
+/* keep the logo vertically centred now that the page has a doctype: quirks
+   mode used to stretch body to the viewport (minus its default 8px margins) */
+body {
+    min-height: calc(100vh - 16px);
+}
