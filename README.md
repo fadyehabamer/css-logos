@@ -6,7 +6,7 @@
 
 | Demo | Description | Preview |
 |------|-------------|---------|
-| [`BayernMunchen-CSSLogo`](./BayernMunchen-CSSLogo/) | MIA SAN MIA | [🔗 Live](https://fadyehabamer.github.io/css-logos/BayernMunchen-CSSLogo/) |
+| [`BayernMunchen-CSSLogo`](./BayernMunchen-CSSLogo/) | FC Bayern München crest in pure CSS ("Mia san mia") | [🔗 Live](https://fadyehabamer.github.io/css-logos/BayernMunchen-CSSLogo/) |
 | [`Borussia-Dortmund-Logo`](./Borussia-Dortmund-Logo/) | Borussia Dortmund Logo using CSS | [🔗 Live](https://fadyehabamer.github.io/css-logos/Borussia-Dortmund-Logo/) |
 | [`Channel-Logo`](./Channel-Logo/) | pure draw for Channel Logo using css3 | [🔗 Live](https://fadyehabamer.github.io/css-logos/Channel-Logo/) |
 | [`Flutter-Logo`](./Flutter-Logo/) | Flutter Logo using only CSS | [🔗 Live](https://fadyehabamer.github.io/css-logos/Flutter-Logo/) |
